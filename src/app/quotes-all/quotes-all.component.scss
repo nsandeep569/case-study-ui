@@ -1,0 +1,19 @@
+table {
+    width: 100%;
+  }
+
+  .btn:focus,.btn:active,.btn-sm:focus,.btn-sm:active {
+   outline: none !important;
+   box-shadow: none;
+}
+
+.mat-header-cell {
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.mat-cell {
+  text-align: center;
+  justify-content:center;
+}

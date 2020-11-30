@@ -1,0 +1,12 @@
+[
+    {"id":"Q001",
+    "customerName":"JOHN DOE",
+    "insurance":"CAR",
+    "value":"50000",
+    "rate":"0.01"},
+    {"id":"Q002",
+        "customerName":"JOHN DOE2",
+        "insurance":"CAR2",
+        "value":"500002",
+        "rate":"0.01"}
+]

@@ -1,0 +1,20 @@
+{
+    "users":
+            [
+                {
+                    "username":"sandeep",
+                    "password":"sandeep",
+                    "level":"1"
+                },
+                {
+                    "username":"sandeep1",
+                    "password":"sandeep1",
+                    "level":"1"
+                },
+                {
+                    "username":"sandeepadmin",
+                    "password":"sandeepadmin",
+                    "level":"2"
+                }
+            ]
+}
